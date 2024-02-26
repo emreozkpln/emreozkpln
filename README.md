@@ -1,4 +1,5 @@
-<h1> Hi there 👋</h1>
+# 👨‍💻 Emre Özkaplan
+**`Full Stack Developer`**
 
 <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
